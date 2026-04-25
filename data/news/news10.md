@@ -1,0 +1,1 @@
+Larsen & Toubro secured multiple infrastructure contracts boosting its order book. The infrastructure sector is expected to grow with increased government spending. Analysts are optimistic about L&T’s future growth.

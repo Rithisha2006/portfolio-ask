@@ -1,0 +1,1 @@
+Kotak Bank reported stable performance but faced margin pressure due to higher funding costs. The bank remains focused on improving operational efficiency.

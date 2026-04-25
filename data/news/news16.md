@@ -1,0 +1,1 @@
+Government bond yields remained stable despite global interest rate fluctuations. Investors are increasingly looking at bonds for safer returns.

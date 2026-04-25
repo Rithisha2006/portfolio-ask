@@ -1,0 +1,1 @@
+Hindustan Unilever reported steady revenue growth supported by strong demand in rural markets. FMCG companies continue to benefit from stable consumption trends. However, rising input costs could impact margins.

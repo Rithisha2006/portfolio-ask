@@ -1,0 +1,1 @@
+The IT sector may face short-term slowdown due to reduced global spending. However, long-term demand for digital services remains strong.

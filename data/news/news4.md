@@ -1,0 +1,1 @@
+ICICI Bank showed strong quarterly performance with growth in both retail and corporate lending. The bank’s asset quality improved significantly compared to previous quarters. Experts believe ICICI Bank is well-positioned to benefit from India’s economic growth.

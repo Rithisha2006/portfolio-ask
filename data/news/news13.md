@@ -1,0 +1,1 @@
+Tesla reported record electric vehicle sales globally. Demand for EVs continues to rise rapidly. Traditional automakers are increasing competition in the EV market.

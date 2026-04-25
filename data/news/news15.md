@@ -1,0 +1,1 @@
+Mutual funds saw increased inflows through SIP investments. Retail participation in equity markets continues to grow steadily.

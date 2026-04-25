@@ -1,0 +1,1 @@
+Banking stocks are expected to perform well with strong credit growth. Asset quality improvements are boosting investor confidence.

@@ -1,0 +1,1 @@
+HDFC Bank reported a 15% rise in net profit supported by strong loan growth and improved asset quality. The bank continues to expand its retail lending portfolio. Analysts remain positive on the banking sector as credit demand remains strong. Rising interest rates may slightly impact margins in the coming quarters.

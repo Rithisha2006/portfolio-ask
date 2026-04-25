@@ -1,0 +1,1 @@
+FMCG sector continues to show resilience due to consistent consumer demand. Rural markets are driving growth for major companies.

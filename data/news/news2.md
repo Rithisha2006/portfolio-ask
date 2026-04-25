@@ -1,0 +1,1 @@
+TCS posted steady earnings growth supported by strong deal wins in the banking and retail sectors. The company highlighted resilience in its business model despite global uncertainty. Analysts believe TCS will continue to outperform due to its diversified client base. However, hiring slowdown may indicate cautious outlook in the near term.

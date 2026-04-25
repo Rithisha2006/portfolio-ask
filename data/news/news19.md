@@ -1,0 +1,1 @@
+Pharma companies are focusing on exports and innovation. Global healthcare demand is expected to remain stable.

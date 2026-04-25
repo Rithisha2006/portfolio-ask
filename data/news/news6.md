@@ -1,0 +1,1 @@
+Sun Pharma reported a 10% growth in revenue driven by strong performance in the US market. The pharma sector continues to benefit from global healthcare demand. However, pricing pressure remains a concern in developed markets.

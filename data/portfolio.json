@@ -1,0 +1,17 @@
+[
+  {"ticker": "INFY", "sector": "IT", "quantity": 100, "avg_cost": 1200, "current_price": 1450, "currency": "INR"},
+  {"ticker": "TCS", "sector": "IT", "quantity": 50, "avg_cost": 3200, "current_price": 3500, "currency": "INR"},
+  {"ticker": "HDFCBANK", "sector": "Banking", "quantity": 80, "avg_cost": 1500, "current_price": 1650, "currency": "INR"},
+  {"ticker": "ICICIBANK", "sector": "Banking", "quantity": 60, "avg_cost": 900, "current_price": 1050, "currency": "INR"},
+  {"ticker": "KOTAKBANK", "sector": "Banking", "quantity": 40, "avg_cost": 1800, "current_price": 1950, "currency": "INR"},
+  {"ticker": "SUNPHARMA", "sector": "Pharma", "quantity": 70, "avg_cost": 950, "current_price": 1100, "currency": "INR"},
+  {"ticker": "DRREDDY", "sector": "Pharma", "quantity": 30, "avg_cost": 4800, "current_price": 5200, "currency": "INR"},
+  {"ticker": "HINDUNILVR", "sector": "FMCG", "quantity": 40, "avg_cost": 2400, "current_price": 2600, "currency": "INR"},
+  {"ticker": "ITC", "sector": "FMCG", "quantity": 150, "avg_cost": 400, "current_price": 450, "currency": "INR"},
+  {"ticker": "RELIANCE", "sector": "Energy", "quantity": 60, "avg_cost": 2400, "current_price": 2700, "currency": "INR"},
+  {"ticker": "LT", "sector": "Infrastructure", "quantity": 35, "avg_cost": 2200, "current_price": 2500, "currency": "INR"},
+  {"ticker": "BHARTIARTL", "sector": "Telecom", "quantity": 50, "avg_cost": 800, "current_price": 950, "currency": "INR"},
+  {"ticker": "HDFCMF", "sector": "Mutual Fund", "quantity": 200, "avg_cost": 500, "current_price": 650, "currency": "INR"},
+  {"ticker": "AXISMF", "sector": "Mutual Fund", "quantity": 150, "avg_cost": 400, "current_price": 520, "currency": "INR"},
+  {"ticker": "GOI10YBOND", "sector": "Bond", "quantity": 100, "avg_cost": 1000, "current_price": 1020, "currency": "INR"}
+]

@@ -1,0 +1,1 @@
+Bharti Airtel continues to gain market share in the telecom sector. Increased data consumption is driving revenue growth. Analysts expect continued expansion in digital services.

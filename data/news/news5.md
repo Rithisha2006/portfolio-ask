@@ -1,0 +1,1 @@
+Reliance Industries announced major investments in renewable energy including solar and hydrogen projects. The company aims to reduce its carbon footprint significantly over the next decade. Analysts see long-term value creation from these green initiatives.

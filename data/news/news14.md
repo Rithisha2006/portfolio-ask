@@ -1,0 +1,1 @@
+Apple launched new products boosting its revenue outlook. The company continues to dominate the premium smartphone segment globally.

@@ -1,0 +1,1 @@
+ITC saw growth in its cigarette and FMCG segments. The company continues to diversify its business beyond tobacco. Analysts believe ITC offers stable returns with consistent dividends.

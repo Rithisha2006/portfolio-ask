@@ -1,0 +1,1 @@
+Dr. Reddy’s Laboratories saw moderate growth in earnings supported by generic drug sales. The company is focusing on expanding its product pipeline. Analysts believe pharma stocks will remain defensive during market volatility.
