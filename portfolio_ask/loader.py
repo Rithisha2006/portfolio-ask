@@ -1,17 +1,15 @@
-import faiss
-import numpy as np
+import json
+import os
 
-class VectorStore:
-    def __init__(self, dim):
-        self.index = faiss.IndexFlatL2(dim)
-        self.texts = []
 
-    def add(self, embeddings, texts):
-        self.index.add(np.array(embeddings).astype("float32"))
-        self.texts.extend(texts)
+def load_portfolio():
+    with open("data/portfolio.json") as f:
+        return json.load(f)
 
-    def search(self, query_embedding, k=5):
-        D, I = self.index.search(
-            np.array([query_embedding]).astype("float32"), k
-        )
-        return [self.texts[i] for i in I[0]]
+
+def load_news():
+    news = []
+    for file in os.listdir("data/news"):
+        with open(f"data/news/{file}", encoding="utf-8") as f:
+            news.append(f.read())
+    return news

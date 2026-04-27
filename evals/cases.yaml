@@ -1,0 +1,12 @@
+cases:
+  - question: "What is my IT exposure?"
+    expected_keywords: ["INFY", "TCS"]
+
+  - question: "List my IT stocks with prices"
+    expected_keywords: ["1450", "3500"]
+
+  - question: "sector exposure"
+    expected_keywords: ["IT", "Banking"]
+
+  - question: "What are my holdings prices?"
+    expected_keywords: ["price"]
